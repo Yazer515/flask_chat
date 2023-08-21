@@ -1,0 +1,31 @@
+a.text:active,
+a.text:hover,
+a.text {
+  text-decoration: none;
+  color: #666;
+}
+
+.container {
+  height: 90vh;
+  text-align: center;
+  padding: 20%;
+}
+
+footer {
+    width: 100%;
+    height: 12%;
+    display: flex;
+    align-items: center;
+    background-size: 100% 100%;
+    justify-content: center;
+}
+
+.description {
+    padding: 10%;
+    height: 90vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
